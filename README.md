@@ -1,2 +1,2 @@
-# JJHPersonal
-JJH_Personal
+# Personal
+Personal
